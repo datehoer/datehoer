@@ -1,3 +1,4 @@
+### Hi there 👋,I'm datehoer.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DF715&width=435&lines=It's+now+or+never.)](https://git.io/typing-svg)
 
 
@@ -5,4 +6,3 @@
 
 ![profile](https://github-profile-trophy.vercel.app/?username=datehoer&theme=algolia&column=8)
 
-![](https://activity-graph.herokuapp.com/graph?username=datehoer&theme=github)

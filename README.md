@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DF715&width=435&lines=It's+now+or+never.)](https://git.io/typing-svg)
   <br><br />
   <samp>
     😆 Hey! Welcome to my profile

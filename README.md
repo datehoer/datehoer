@@ -1,5 +1,6 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DF715&width=435&lines=It's+now+or+never.)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DF715&width=435&lines=It's+now+or+never." alt="Typing SVG" /></a>
+
   <br><br />
   <samp>
     😆 Hey! Welcome to my profile

@@ -1,10 +1,6 @@
 ### Hi there 👋,I'm datehoer.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DF715&width=435&lines=It's+now+or+never.)](https://git.io/typing-svg)
 
-
-![profile](https://github-profile-trophy.vercel.app/?username=datehoer&theme=algolia&column=8)
-
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
